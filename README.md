@@ -1,22 +1,12 @@
-# About Tableau
-
-Tableau is a powerful data visualization and business intelligence tool. Some key features:
-
-- Drag and drop interface to build interactive dashboards 
-
-- Broad data connectivity to combine data sources 
-
-- Diverse visualization types including maps, charts, graphs etc.
-
-- Smart analytics with trendlines, forecasting, clustering etc.
-
-- Sharing capabilities for visualizations and dashboards
+# About the Project
+This project is looking at sales trends at a popular coffee shop chain called Maven's Roasters based in New York City (Hell's Kitchen, Lower Manhattan, Astoria). The owners of the coffee shop wants to learn more about their customers and purchasing habits as well as product popularity. The owners of the coffee shop would like to know which shop is doing the best in terms of sales as they are considering a closure of one shop. 
 
 # Maven Coffee Roasters Sales and Trend Analysis 
 ![Screen Shot 2024-09-13 at 5 54 33 PM](https://github.com/user-attachments/assets/eb5ef510-55e7-4d7e-b5be-569d31dc2290)
 Link to the dashboard: https://public.tableau.com/shared/WBHCTBCNF?:display_count=n&:origin=viz_share_link
 ### The Objective
 To analyze key trends, KPI's and sales for a coffee shop chain in New York City. The locations are Hell's Kitchen, Astoria, and Lower Manhattan 
+
 ### The Findings:
 - Hell's Kitchen location has the highest sales, their leading product being sustainably grown coffee in the size large
 - In all stores, barista espresso is the top selling product
@@ -37,8 +27,6 @@ To analyze key trends, KPI's and sales for a coffee shop chain in New York City.
   - Open the patio (if applicable) for outdoor seating during the summer. These are the busiest times of the year, providing various seating options is crucial for sales
   - Consider having seasonal beverages during the year, especially during the summer months. Think about having a lemonade, sparkling drink, or smoothie to quench the customer's thirst during the hot climate. Hot chocolate is also popular, so consider having different flavours during the year such as peppermint hot chocolate for christmas or lavendar hot chocolate for valentines day.
   - Get rid of packaged merchandise such as chocolate bars, syrups, etc. Conduct market research before implementing a "market" for packaged merchandise at the coffee shop
-
-## General strategy 
 - develop a membership program for loyal customers to gain loyalty points, birthday drinks, and discounted drinks during the season
 - Offering discounts on soon-to-be expiring drink flavours during seasonal transitions and pastries (or day old pastries) to get rid of the stock instead of throwing them away
 - implementing wi-fi (if applicable) and seating with ports on the table for professionals and students
